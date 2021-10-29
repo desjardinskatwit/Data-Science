@@ -4,4 +4,4 @@
 ![PNG](https://github.com/desjardinskatwit/Data-Science/blob/main/Lab2_pic.PNG)
 
 ##Lab 3 Wall Collision & Random Start
-![GIF](https://github.com/desjardinskatwit/Data-Science/blob/main/Lab3.GIF)
+![lab3](https://user-images.githubusercontent.com/59697449/139483850-c0e713ea-c8da-4175-adb4-23e2c1d82e76.gif)
